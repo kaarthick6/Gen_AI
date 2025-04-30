@@ -1,2 +1,2 @@
 # Gen_AI
-Naan Mudhalvan Generative AI Pythonn Notebooks
+Naan Mudhalvan Generative AI Python Notebooks
